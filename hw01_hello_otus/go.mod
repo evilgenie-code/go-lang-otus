@@ -1,4 +1,4 @@
-module github.com/evilgenie-code/hw01_hello_otus
+module github.com/evilgenie-code/go-lang-otus/hw01_hello_otus
 
 go 1.19
 
